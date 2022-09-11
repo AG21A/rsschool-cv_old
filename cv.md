@@ -16,7 +16,7 @@ My strengths are high teachability, initiative, energy, responsibility, attentio
 DATE      |NAME OF THE INSTITUTION        |
 :--------:|:-----------------------------:|
 2005-2010 |[Military Academy of the Republic of Belarus](https://varb.mil.by/)
-2013-2015 |Master's degree in Law
+2013-2015 |[Master's degree in Law](https://www.amia.by/structure/faculties/scientific-and-pedagogical-faculty)
 2019-2022 |[Physical education university](https://www.sportedu.by/)
 
 ###Code examples:
