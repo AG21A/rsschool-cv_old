@@ -29,7 +29,7 @@ if (number < 12) {
 ```
 
 ###English:
-A2
+*A2*
 
 ###Contact info:
 1. email: magistr9698@gmail.com
