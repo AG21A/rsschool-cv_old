@@ -10,6 +10,7 @@ My strengths are high teachability, initiative, energy, responsibility, attentio
 * JavaScript (Basic)
 * Git
 * Editors: Sublime, VSCode
+* Functional testing
 
 ###Education:
 DATE      |NAME OF THE INSTITUTION        |
